@@ -9,3 +9,4 @@ Atualmente aluno pesquisador no Centro de Estudos em Games e Internet (CEGI) da 
 Todos os meus projetos da faculdade, de cursos ou particulares estão neste GitHub!
 
 💻 Linguagens: C e C#
+📁 Projeto mais recente: [English Trainer](https://github.com/capuano1/English-Trainer): Um programa simples em C# para ajudar minha aluna de inglês a praticar flexões verbais
